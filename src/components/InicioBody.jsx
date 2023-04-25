@@ -23,7 +23,7 @@ function InicioBody() {
               <br></br>
               <br></br>
 
-            Nos encontramos orgullosos de ser uno de los restaurantes de comida japonesa con la mayor calidad de nuestros productos y de atención. Ofrecemos platos de calidad, cocinados por nuestros chef originarios de Japón, esperamos que tu experiencia en Mitsudomoe Restaurante sea única y memorable.
+            Nos sentimos orgullosos de ser uno de los restaurantes de comida japonesa con la mejor calidad de atención y productos. Ofrecemos platos gurmmet, cocinados por nuestros chefs originarios de Japón, esperamos que tu experiencia en Mitsudomoe Restaurante sea única y memorable.
               </p>
             </Col>
           </Row>

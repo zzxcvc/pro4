@@ -8,7 +8,7 @@ import img3 from "../assets/slider/img3.jpg"
 
 function ImageSlider() {
     return (
-      <Carousel autoPlay={true} width={700} showThumbs={false} className="slider" interval={3000} infiniteLoop={true} showStatus={false}>
+      <Carousel autoPlay={true} showThumbs={false} className="slider" interval={3000} infiniteLoop={true} showStatus={false}>
   
         <div>
           <img src={img1} alt="Imagen 1" className='slider-img' />

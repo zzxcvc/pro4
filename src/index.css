@@ -91,7 +91,7 @@ a.nav-link:hover {
     margin: 0;
 }
 .slider {
-    width: 100%;
+    width: 70%;
     padding: 0;
     margin-top: 50px;
     margin-left: 70px;
@@ -259,5 +259,23 @@ a.nav-link:hover {
     outline: auto;
 
 }
+.locali-1{
+    background-image: url("https://images.unsplash.com/photo-1521571086300-579bd981bbb6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    margin-left: 550px;
+    outline: auto;
+    width: 40%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+    
 
+}
+
+.loc-1{
+    margin: 10%;
+    background-color: #730707;
+    color: aliceblue;
+
+}
 

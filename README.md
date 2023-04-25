@@ -1,29 +1,8 @@
 PROYECTO 4: Aplicación "Restaurante"
 
-Este proyecto está enfocado en construir una aplicación web para un restaurante.
+En este proyecto se presenta una página web relacionada con el comercio gastronomico. 
+En el, podrás encontrar una página de inicio el cual contiene un Navbar para diregirte a los diferentes enlaces creados como: menú, ubicación, contacto, etc.
 
-Lo que deberás incluir como requisitos mínimos será:
+El proyecto es creado con JavaScript y librerias como es React-Bootstrap. También se utiliza Firebase para obtener la infromación de nuestros diferentes platos que se dispone al cliente.
 
-Una sección o página sobre información principal del restaurante
-Una sección de formulario de contacto
-Una sección de datos de ubicación y correo electrónico
-
-Como características opcionales:
-
-Un componente que permita reservar una mesa en una hora y fecha específica para un usuario
-Un componente que incluya el menú completo del restaurante
-Adaptado a móviles
-Un blog que incluya un artículo
-
-Para la gestión de datos, te recomendamos utilizar Cloud Firestore de Firebase.
-
-El objetivo principal de este proyecto es desarrollar una aplicación web utilizando React y, opcionalmente, Firebase.
-
-Aplicarás:
-
-create-react-app como el generador base de la aplicación
-Componentes bajo "Hooks"
-CSS para el aspecto visual de componentes
-Cloud Firestore para el manejo de datos
-
-https://spontaneous-longma-2ccf82.netlify.app/
+El proyecto fue creado por Cristian González Arjona, estudiante del Bootcamp UDD - Full Stack Desarrollo Web
